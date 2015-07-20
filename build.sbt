@@ -8,5 +8,5 @@ scalaVersion := "2.11.7"
 
 resolvers += "Scalaz Bintray Repo" at "https://dl.bintray.com/scalaz/releases"
 
-libraryDependencies += "org.scalaz" %% "scalaz-core" % "7.1.0"
+libraryDependencies += "org.scalaz" %% "scalaz-core" % "7.1.3"
 
